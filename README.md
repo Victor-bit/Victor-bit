@@ -2,7 +2,7 @@
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Epam
-- 📫 How to reach me?I don't know?:)
+- 📫 How to reach me?pozitiven13@gmail.com
 
 <!---
 Victor-bit/Victor-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
